@@ -6,7 +6,6 @@ Currently working with
 
 Python · Django · Django REST Framework · FastAPI
 PostgreSQL · SQL · REST APIs
-React.js · TypeScript
 Git · Docker · Linux
 
 Currently learning: Backend architecture, testing, databases, and building production-ready APIs.
